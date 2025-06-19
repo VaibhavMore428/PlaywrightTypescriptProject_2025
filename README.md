@@ -1,1 +1,1 @@
-This is POM(Page object model) based framework implementation. Covers all selenium concepts.
+This is POM(Page object model) based framework implementation. Covers all playwright concepts.
